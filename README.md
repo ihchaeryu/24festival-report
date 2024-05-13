@@ -16,3 +16,18 @@ Team: 친목조 00조
 ## Photos
 
 ![saw_ducklings](imgs/photo_1.jpeg)
+
+
+## Comments
+
+### Nubjuk
+
+오리가 제일 좋았어요!
+
+### Jukjuk
+
+친목 00조 화이팅
+
+### Nubi
+
+GDSC 짱
