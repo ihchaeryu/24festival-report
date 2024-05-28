@@ -1,33 +1,23 @@
 # 2024 Festival Report for GDSC
 
-Date: 2024.05.32
+Date: 2024.05.28
 
 Event: 2024 KAIST 태울석림제
 
-Team: 친목조 00조
+Team: 친목조 03조
 
 
 ## Members
 
-- Nubjuk
-- Jukjuk
-- Nubi
+- Ryu Ihchae
 
 ## Photos
 
-![saw_ducklings](imgs/photo_1.jpeg)
+![at_temufestival](imgs/photo.jpeg)
 
 
 ## Comments
 
-### Nubjuk
+### only me
 
-오리가 제일 좋았어요!
-
-### Jukjuk
-
-친목 00조 화이팅
-
-### Nubi
-
-GDSC 짱
+팀원이 없어요 ㅠㅠ
